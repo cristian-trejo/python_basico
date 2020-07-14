@@ -1,2 +1,6 @@
-# python_basico
-Ejercicios y ejemplos del curso de Python Básico
+###  Programas y ejercicios del curso básico de Python :snake:
+
+- Conversiones
+- Condicionales
+- Cadenas
+- Bucles
